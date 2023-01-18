@@ -3,7 +3,7 @@
 exports[`<GiffGridItem> should match to snapshot 1`] = `
 <div>
   <div
-    class="col"
+    class="col-md-auto"
   >
     <div
       class="card p-2 m-2"
