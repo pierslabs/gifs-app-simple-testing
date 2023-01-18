@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GiffGridItem> should match to snapshot 1`] = `
+<div>
+  <div
+    class="col"
+  >
+    <div
+      class="card p-2 m-2"
+    >
+      <img
+        alt="batman"
+        class="rounded img-fluid"
+        src="https://batman.com/batman.jpg"
+        style="height: 200px;"
+      />
+      <a
+        href="https://batman.com/batman.jpg"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        batman
+      </a>
+    </div>
+  </div>
+</div>
+`;
